@@ -1,4 +1,4 @@
-# Split Data into Train-Val-Test
+# Split Data into Train-Validation-Test
  This is created for handling huge data to split it. 
  Especially for huge image dataset with unseperated .csv or .txt label file. 
  - Firstly, we split image dataset folder into two or three folders as training, validation and test using split_folders.py. 
