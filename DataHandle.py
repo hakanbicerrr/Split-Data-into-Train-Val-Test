@@ -32,5 +32,5 @@ print(len(training_data))
 print(len(test_data))
 
 # Save data which is split into training and test as .csv.
-#training_data.to_csv(r"C:/Users/hakan/OneDrive/Masaüstü/ESOGÜ/20-21-Güz/Bilgisayarla Görü/Ödev/BilgisayarlaGoru/trainval/train/train.csv", index = False)
+training_data.to_csv(r"C:/Users/hakan/OneDrive/Masaüstü/ESOGÜ/20-21-Güz/Bilgisayarla Görü/Ödev/BilgisayarlaGoru/trainval/train/train.csv", index = False)
 test_data.to_csv(r"C:/Users/hakan/OneDrive/Masaüstü/ESOGÜ/20-21-Güz/Bilgisayarla Görü/Ödev/BilgisayarlaGoru/trainval/val/val.csv", index = False)
